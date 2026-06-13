@@ -8,3 +8,16 @@ div.user div {
 div.user.selected {
     background-color: greenyellow;
 }
+
+/* Enhanced panel styling */
+div.user {
+    border-radius: 6px;
+    margin-bottom: 8px;
+    transition: background-color 0.15s ease, box-shadow 0.15s ease;
+}
+div.user:hover {
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+}
+div.user.selected {
+    background-color: #b9f6ca;
+}
