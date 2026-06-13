@@ -8,7 +8,7 @@
 body {
     font-family: -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
     color: #1a1a1a;
-    background: #f4f5f7;
+    background: #eef1f5;
     line-height: 1.6;
 }
 
@@ -20,7 +20,7 @@ body {
 
 /* ===== Header ===== */
 .site-header {
-    background: #0f172a;
+    background: #1e3a5f;
     color: #fff;
     padding: 28px 0;
     margin-bottom: 28px;
@@ -88,7 +88,7 @@ body {
 /* ===== Shared text ===== */
 .tag {
     display: inline-block;
-    background: #2563eb;
+    background: #0ea5e9;
     color: #fff;
     font-size: 0.72rem;
     text-transform: uppercase;
